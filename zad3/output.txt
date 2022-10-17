@@ -1,0 +1,8 @@
+appending text into file
+{"quote":"I'm the best"}
+appending text into file
+{"quote":"Fur pillows are hard to actually sleep on"}
+appending text into file
+{"quote":"My greatest award is what I'm about to do."}
+appending text into file
+{"quote":"We will change the paradigm"}
