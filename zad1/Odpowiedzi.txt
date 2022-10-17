@@ -1,0 +1,8 @@
+	1.W jakim celu używa się klas abstrakcyjnych, a w jakim interfejsów?
+klasa abstrakcyjna- służy głównie do dziedziczenia, jest to baza innych klas.
+
+Interfejs - służy do hermetyzacji (ukrywaniu) pewnych danych np. w pewnej klasie mamy pole pesel które chcemy ukryć, wtedy możemy użyc interfejsu.
+
+
+	2.Czym różni się tablica od listy liniowej?
+Główną różnicą jest to, że listy mogą miec zmienną ilość elementów,a tablice nie, drugą istotną różnicą jest to, że element kolejny bierzemy poprzez odpowiednią metodę get(nr).
